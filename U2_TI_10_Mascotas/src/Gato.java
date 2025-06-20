@@ -5,6 +5,7 @@ public class Gato extends Animal{
 
 
     public void maullar() {
+        System.out.println("When eres un gato inteligente : Deltarune > Undertale");
     }
 
 }
